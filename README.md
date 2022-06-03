@@ -1,1 +1,1 @@
-# movie-streaming-and-recommendation
+# Movie Streaming Applications 
