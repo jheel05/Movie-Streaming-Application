@@ -543,7 +543,7 @@ mark {
 
 code {
     font-size: 87.5%;
-    color: #e83e8c;
+    color: #3895D3;
     word-wrap: break-word
 }
 
@@ -10546,8 +10546,8 @@ a.text-dark:hover {
 
 @media print {
     *,
-    ::after,
-    ::before {
+     ::after,
+     ::before {
         text-shadow: none!important;
         box-shadow: none!important
     }
