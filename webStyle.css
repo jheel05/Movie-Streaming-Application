@@ -37,7 +37,7 @@ img {
     background-color: rgb(15, 15, 73) !important;
     color: white;
     box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 15px 0 rgba(0, 0, 0, 0.19);
-    box-shadow: 0 0 15px red !important;
+    box-shadow: 0 0 15px #3895D3 !important;
 }
 
 .movie_card img {
@@ -45,7 +45,7 @@ img {
 }
 
 .movie_info {
-    color: red;
+    color: #3895D3;
 }
 
 .movie_info i {
@@ -59,7 +59,7 @@ img {
 }
 
 .section-title {
-    color: red;
+    color: #3895D3;
     font-size: 25px;
     margin-bottom: 40px;
 }
@@ -80,11 +80,11 @@ img {
 
  ::-webkit-scrollbar-track {
     border: 5px solid #2c2f30;
-    background-color: red;
+    background-color: #3895D3;
 }
 
  ::-webkit-scrollbar-thumb:hover {
-    background-color: red !important;
+    background-color: #3895D3 !important;
 }
 
  ::-webkit-scrollbar-track:hover {
@@ -255,7 +255,7 @@ img {
 }
 
 .dropdown-content a:hover {
-    background-color: red;
+    background-color: #3895D3;
     color: white;
     text-decoration: none;
 }
