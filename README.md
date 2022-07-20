@@ -1,3 +1,4 @@
 # Movie Streaming Application
 
-#### A website, to stream all your favourites
+#### A website, to stream all your favourites.
+
